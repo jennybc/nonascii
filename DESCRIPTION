@@ -1,5 +1,5 @@
 Package: nonascii
-Title: What the Package Does (One Line, Title Case)
+Title: A demo package to explore encoding matters
 Version: 0.0.0.9000
 Authors@R: 
     person("Jennifer", "Bryan", , "jenny@rstudio.com", role = c("aut", "cre"),
