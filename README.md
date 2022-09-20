@@ -13,7 +13,7 @@ The goal of nonascii is to run some experiments with `R CMD check` and package d
   Note: found 352 marked UTF-8 strings
 ```
 
-To be clear, this is one of those `NOTE`s that you can actuall ignore, i.e. it's not a sign of something that needs to be fixed.
+To be clear, this is one of those `NOTE`s that you can actually ignore, i.e. it's not a sign of something that needs to be fixed.
 
 By default, `devtools::check()` does not show the note, because the default is `cran = TRUE`, which triggers `--as-cran`, which (ironically) suppresses this note.
 
